@@ -1,2 +1,1 @@
-# Why are we here
-### This is a cool github organization for the purpose of storing our files
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJ2O1)](https://github.com/anuraghazra/github-readme-stats)
